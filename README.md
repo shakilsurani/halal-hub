@@ -1,2 +1,2 @@
 # halal-hub
-Tracking halal meat
+Tracking halal meat to help community.
